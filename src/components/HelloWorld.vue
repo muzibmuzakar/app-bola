@@ -1,6 +1,7 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
+    <a class="btn btn-primary btn-sm">cek</a>
     <p>
       For a guide and recipes on how to configure / customize this project,<br>
       check out the
@@ -53,7 +54,5 @@ li {
   display: inline-block;
   margin: 0 10px;
 }
-a {
-  color: #42b983;
-}
+
 </style>
